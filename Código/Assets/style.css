@@ -17,7 +17,7 @@ body {
 .relogio {
     height: 200px;
     width: 550px;
-    border-radius: 3px;
+    border-radius: 100px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -35,7 +35,7 @@ body {
     color: #fff;
     background: rgba(5, 5, 5, .9);
     box-shadow: 5px 5px 15px rgba(0, 0, 0, .7);
-    border-radius: 5px;
+    border-radius: 100px;
     letter-spacing: 2px;
 }
 
