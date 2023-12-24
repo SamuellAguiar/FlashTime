@@ -1,4 +1,4 @@
-<h3 align="center"> Relógio Digital </h3>
+<h2> Relógio Digital </h2>
 
 <p>
   Este projeto consiste em um relógio digital simples desenvolvido utilizando HTML, CSS e JavaScript. <br />
